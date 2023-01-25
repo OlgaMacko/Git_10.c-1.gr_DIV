@@ -1,5 +1,8 @@
 print ("Olga Macko")
 
+print ("Artjoms Tamanis")
+
+
 print ("Dmitrijs Dunajs")
 
 
@@ -21,6 +24,7 @@ print ("Vadim Shadeik")
 print ("Ariana Pinčuka")
 
 print ("Evelina Kostjuka")
+
 
 
 
